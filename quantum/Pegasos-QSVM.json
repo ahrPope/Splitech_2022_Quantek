@@ -1,0 +1,5 @@
+{
+    "name": "Pegasos-QSVM",
+    "description": "Quantum support vector machine, pegasos implementati",
+    "max_execution_time": 30000
+  }
